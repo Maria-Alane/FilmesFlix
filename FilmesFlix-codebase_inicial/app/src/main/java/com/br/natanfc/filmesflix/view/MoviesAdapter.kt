@@ -1,9 +1,10 @@
-package com.br.natanfc.filmesflix
+package com.br.natanfc.filmesflix.view
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import coil.load
+import com.br.natanfc.filmesflix.R
 import com.br.natanfc.filmesflix.model.Movie
 import kotlinx.android.synthetic.main.movie_item_layout.view.*
 
